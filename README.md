@@ -1,0 +1,1 @@
+QGIS plugin for burn scar mapping
